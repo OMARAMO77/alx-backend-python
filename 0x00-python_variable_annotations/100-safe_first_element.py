@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ duck-typed annotations """
-from typing import Any, Union, Sequence, Iterable, List, Tuple
+from typing import Any, Sequence, Union
 
 
 # The types of the elements of the input are not know
