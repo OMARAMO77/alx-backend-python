@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Complex types """
+""" duck-typed annotations """
 from typing import Iterable, List, Sequence, Tuple
 
 
